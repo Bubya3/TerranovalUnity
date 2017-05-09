@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dungeon1
+  - dungeon1_surface
+  - farmhouse1
+  - farmhouse1_surface
+  - dungeon2_1
+  - dungeon2_1_surface
+  - dungeon2_2
+  - dungeon2_2_surface
+  - water
+  - iron_ore
+  - rock
+  - hell_1
+  - hell_1_surface
+  - lava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
